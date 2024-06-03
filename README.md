@@ -4,4 +4,4 @@ El biodigestor es una herramienta crucial para el tratamiento sostenible de resi
 
 # Integrantes:
 ## Narciso Perez ∣ Mónica Yamil Alvarado
-## Tobias Tinaro ∣ Jeremias Vergara ∣ Leandro Asis ∣ Diego Piccinali ∣ Mariano Oliva ∣ Candela Pamelin ∣ Natalia Aberghina
+## Tobias Tinaro ∣ Jeremías Vergara ∣ Leandro Asis ∣ Diego Piccinali ∣ Mariano Oliva ∣ Candela Pamelin ∣ Natalia Aberghina
