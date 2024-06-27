@@ -6,4 +6,23 @@ El biodigestor es una herramienta crucial para el tratamiento sostenible de resi
 ## Narciso Perez ∣ Mónica Yamil Alvarado
 ## Tobias Tinaro ∣ Jeremías Vergara ∣ Leandro Asis ∣ Diego Piccinali ∣ Mariano Oliva ∣ Candela Pamelin ∣ Natalia Aberghina
 
-Abrir dos terminales para la ubicacion para crear un entorno 
+
+Proyecto FrontEnd
+
+Abrir dos terminales 
+
+Crear entorno con 
+
+conda create -n API python=3.10
+
+Activar entorno con 
+
+conda activate API
+
+Instalar librerías con
+
+pip install -r requieriments.txt
+
+
+
+para la ubicacion para crear un entorno 
