@@ -25,4 +25,24 @@ pip install -r requieriments.txt
 
 
 
-para la ubicacion para crear un entorno 
+para la ubicacion para crear un entornos
+
+
+
+
+frontEnd cambiarse a directorio readmed para ejecutar con 
+npm start 
+aceptamos la solucitud 
+
+
+conda install pyjwt
+
+
+
+
+
+
+
+
+
+
